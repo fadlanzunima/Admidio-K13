@@ -34,11 +34,19 @@ Repository untuk tugas Komdat dari kelompok 13
 </ol>
 
 <b>Cara Pemakaian</b>
-<p>Tampilan aplikasi web</p>
+<ul>
+<li><p>Tampilan aplikasi web</p></li>
+<img src="https://github.com/fadlanzunima/Komdat-13/blob/master/pic/pict1.png" />
 
 
-<p><b>Fungsi-fungsi utama</b></p>
 
+<li><p><b>Fungsi-fungsi utama</b></p></li>
+<center><img src="https://github.com/fadlanzunima/Komdat-13/blob/master/pic/pict2.png"/> </center>
+<center><img src="https://github.com/fadlanzunima/Komdat-13/blob/master/pic/pict3.png"/> </center>
+<center><img src="https://github.com/fadlanzunima/Komdat-13/blob/master/pic/pict4.png"/> </center>
+<center><img src="https://github.com/fadlanzunima/Komdat-13/blob/master/pic/pict5.png"/> </center>
+<center><img src="https://github.com/fadlanzunima/Komdat-13/blob/master/pic/pict6.png"/> </center>
+</ul>
 
 
 
